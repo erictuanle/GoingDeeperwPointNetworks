@@ -1,2 +1,2 @@
 # GoingDeeperwPointNetworks
-This project releases the code for the Paper "Going Deeper with Point Networks"
+This project releases the code from the Paper "Going Deeper with Point Networks".
