@@ -7,7 +7,7 @@ We report systematic accuracy and memory consumption improvements on multiple pu
 [[Paper]](https://arxiv.org/abs/1907.00960)
 
 
-<div style="text-align:center"> <img src="./misc/teaser1.png" width="440"/> <img src="./misc/teaser2.png" width="440"/>
+<div style="text-align:center"> <img src="./misc/teaser1.png" width="430"/> <img src="./misc/teaser2.png" width="430"/>
 
 ## Overview
 The standard PN++ layer in (a) amounts to the composition of a neighborhood-based lookup and a PointNet element. In (b) we propose to combine parallel PointNet blocks in a multi-resolution architecture, and in (c) allow information to flow across  branches of different resolutions through a cross-link element.
